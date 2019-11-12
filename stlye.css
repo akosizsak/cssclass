@@ -8,6 +8,10 @@ body {
    width: 300px;
 }
 
+h1 {
+   color: #9013fe
+}
+
 li {
    margin-bottom: .5em;
 }
