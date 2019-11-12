@@ -6,9 +6,12 @@ body {
    font-size: 14px;
    line-height: 1.5;
    width: 300px;
+   margin: 8px;
 }
 
 h1 {
+   font-size: 36px;
+   font-weight: bold;
    color: #9013fe;
    line-height: 1;
    text-align: center;
@@ -22,6 +25,8 @@ h2 {
    margin-top: 10px;
    scroll-margin-bottom: 10px;
    line-height: 1;
+   margin-top: 10px;
+   margin-bottom: 10px;
 }
 
 p {
