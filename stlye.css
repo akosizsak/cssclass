@@ -24,10 +24,11 @@ h2 {
 
 h2.main {
    line-height: 24px;
+   margin-bottom: 0.75;
 }
 
 h2.secondary {
-   line-height: 24px;
+   line-height: 1;
 }
 
 li {
