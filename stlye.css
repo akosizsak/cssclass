@@ -11,6 +11,7 @@ body {
 h1 {
    color: #9013fe;
    line-height: 1;
+   text-align: center;
 }
 
 li {
